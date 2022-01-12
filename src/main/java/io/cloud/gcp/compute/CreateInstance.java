@@ -21,7 +21,7 @@ public class CreateInstance {
 
         String project = "qea-sandbox";
         String zone = "us-central1-a";
-        String instanceName = "instance-name3";
+        String instanceName = "instance-name4";
         createInstance(project, zone, instanceName);
     }
 
